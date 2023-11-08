@@ -1,7 +1,9 @@
 # Tweepy_BussinessAnalytics
 
+I will add the extra files done for this exercise after the deadline has passed
+
 This is my assignment for the Digital and Social Media Analytics (5 credits) course.
-Here we utilize Tweepy to work with the Twitter API and manage our tweets. I will add the extra files done for this exercise after the deadline has passed
+Here we utilize Tweepy to work with the Twitter API and manage our tweets. 
 
 
 ## Requirements
