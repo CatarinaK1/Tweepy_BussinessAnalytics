@@ -16,7 +16,7 @@ You can gain access through : https://developer.twitter.com/en
 You need to have Python installed. In case you don't download and install Python from the official website https://www.python.org/ .
 
 ### Tweepy
-The next step will be to install Twwepy.
+The next step will be to install Tweepy.
 
 ```
 pip install tweepy
